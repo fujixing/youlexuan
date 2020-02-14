@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-content-service/youlexuan-content-service.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-content-service/youlexuan-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-manager-web/youlexuan-manager-web.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-manager-web/youlexuan-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-partent.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-partent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-common/youlexuan-sellergoods-common.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-common/youlexuan-sellergoods-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-dao/youlexuan-sellergoods-dao.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-dao/youlexuan-sellergoods-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-interence/youlexuan-sellergoods-interence.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-interence/youlexuan-sellergoods-interence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-pojo/youlexuan-sellergoods-pojo.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-pojo/youlexuan-sellergoods-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-service/youlexuan-sellergoods-service.iml" filepath="$PROJECT_DIR$/youlexuan-partent/youlexuan-sellergoods-service/youlexuan-sellergoods-service.iml" />
+    </modules>
+  </component>
+</project>
